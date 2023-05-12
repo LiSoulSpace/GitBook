@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T09:34:54.108Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="y-cwvjIO4NT4gimGBHFj" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T09:35:44.059Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FCzlXJQgoWpgz9kjofh6" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="819" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="276" dy="155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -37,15 +37,8 @@
         <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-7" value="生成图像索引" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358.52" y="290" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrnmZ6yVBA1Yq4H3zK-J-8" target="UrnmZ6yVBA1Yq4H3zK-J-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415.52" y="390" />
-              <mxPoint x="493.52" y="390" />
-              <mxPoint x="493.52" y="460" />
-              <mxPoint x="415.52" y="460" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrnmZ6yVBA1Yq4H3zK-J-8" target="UrnmZ6yVBA1Yq4H3zK-J-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-8" value="发送“缩略图生成”&lt;br&gt;消息给&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353.52" y="340" width="126.48" height="40" as="geometry" />
@@ -56,7 +49,7 @@
         <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrnmZ6yVBA1Yq4H3zK-J-13" target="UrnmZ6yVBA1Yq4H3zK-J-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-13" value="绑定图像与用户关系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-13" value="绑定原图与用户关系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353.02" y="400" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UrnmZ6yVBA1Yq4H3zK-J-34" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
