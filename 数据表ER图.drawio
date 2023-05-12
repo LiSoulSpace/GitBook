@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T07:01:25.789Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3S1gBqE4q-G_jdVDRAw0" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T07:01:39.200Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vRkbSkHyjimyXtZzIj2c" version="21.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="989" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -71,13 +71,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5dkXH1X9vFJUfWhf-pJQ-25" value="原图与缩略图" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="363.82978723404244" y="201.8823529411765" width="76.80851063829785" height="41.411764705882355" as="geometry" />
+          <mxGeometry x="363.83" y="201.88" width="106.17" height="41.41" as="geometry" />
         </mxCell>
         <mxCell id="5dkXH1X9vFJUfWhf-pJQ-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=宋体;fontSize=13;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="5dkXH1X9vFJUfWhf-pJQ-26" target="5dkXH1X9vFJUfWhf-pJQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5dkXH1X9vFJUfWhf-pJQ-26" value="原图与修复图" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="363.82978723404244" y="253.64705882352945" width="76.80851063829785" height="41.411764705882355" as="geometry" />
+          <mxGeometry x="363.83" y="253.65" width="106.17" height="41.41" as="geometry" />
         </mxCell>
         <mxCell id="5dkXH1X9vFJUfWhf-pJQ-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=宋体;fontSize=13;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="5dkXH1X9vFJUfWhf-pJQ-5" target="5dkXH1X9vFJUfWhf-pJQ-26">
           <mxGeometry relative="1" as="geometry" />
