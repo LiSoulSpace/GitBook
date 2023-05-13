@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T12:18:07.777Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="S93_4LOMJDWuI_fvkAuF" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T12:20:13.723Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0hKKTPdIs57F1pFSE9K9" version="21.3.0" type="github">
   <diagram name="第 1 页" id="Fq_7bFFHUrejeTsrs-1e">
-    <mxGraphModel dx="819" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,16 @@
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-14" target="0MIF7nP4EVPLEAdVTBuU-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-21" target="0MIF7nP4EVPLEAdVTBuU-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-21" value="保存原图与修复图像关系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="363.1403336604514" y="192.4137931034483" width="91.06967615309127" height="42.758620689655174" as="geometry" />
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-16" target="0MIF7nP4EVPLEAdVTBuU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-22" target="0MIF7nP4EVPLEAdVTBuU-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-22" value="写错误日志由管理员分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
@@ -68,13 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="369.9705593719333" y="277.93103448275866" width="77.40922473012758" height="32.06896551724138" as="geometry" />
-        </mxCell>
-        <mxCell id="0MIF7nP4EVPLEAdVTBuU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-21" target="0MIF7nP4EVPLEAdVTBuU-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0MIF7nP4EVPLEAdVTBuU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-22" target="0MIF7nP4EVPLEAdVTBuU-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="369.9705593719333" y="340.00103448275866" width="77.40922473012758" height="32.06896551724138" as="geometry" />
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-28" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="56.91854759568204" y="288.6244827586207" width="34.15112855740923" height="21.379310344827587" as="geometry" />
@@ -131,6 +131,12 @@
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-54" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="56.92306182531894" y="220.00482758620694" width="34.15112855740923" height="21.379310344827587" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-55" target="0MIF7nP4EVPLEAdVTBuU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-55" value="删除缓存信息&lt;br&gt;写入缓存结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="363.1403336604514" y="267.2437931034483" width="91.06967615309127" height="42.758620689655174" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
