@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T12:17:53.558Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PCLXx2butWdWJC3vh-Ce" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T12:18:07.777Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="S93_4LOMJDWuI_fvkAuF" version="21.3.0" type="github">
   <diagram name="第 1 页" id="Fq_7bFFHUrejeTsrs-1e">
-    <mxGraphModel dx="989" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-11" value="编辑消息&lt;br&gt;发送给&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;端处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="133.18940137389598" y="310.00379310344834" width="136.60451422963692" height="42.758620689655174" as="geometry" />
+          <mxGeometry x="141.6" y="310" width="119.79" height="42.76" as="geometry" />
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-4" target="0MIF7nP4EVPLEAdVTBuU-11">
           <mxGeometry relative="1" as="geometry" />
@@ -117,8 +117,8 @@
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-48" target="0MIF7nP4EVPLEAdVTBuU-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="198" />
-              <mxPoint x="290" y="440" />
+              <mxPoint x="280" y="198" />
+              <mxPoint x="280" y="440" />
               <mxPoint x="56" y="440" />
             </Array>
           </mxGeometry>
