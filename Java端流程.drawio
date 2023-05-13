@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T12:00:30.551Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QrhOQ-F5EyXGaf8D3nn4" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T12:07:09.589Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J_VI07bpnFRv5Jt5A3h3" version="21.3.0" type="github">
   <diagram name="第 1 页" id="Fq_7bFFHUrejeTsrs-1e">
-    <mxGraphModel dx="330" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0MIF7nP4EVPLEAdVTBuU-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="258" y="10" width="68" height="30" as="geometry" />
+          <mxGeometry x="55" y="10" width="68" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0MIF7nP4EVPLEAdVTBuU-2" value="接收到图像修复请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="60" width="79" height="40" as="geometry" />
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-2" target="0MIF7nP4EVPLEAdVTBuU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-2" value="接收到图像修复请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="49.5" y="60" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-4" target="0MIF7nP4EVPLEAdVTBuU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-4" target="0MIF7nP4EVPLEAdVTBuU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-4" value="是否处理过？" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="98" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-7" target="0MIF7nP4EVPLEAdVTBuU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-7" value="查询结果并返回" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="49.5" y="190" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="55" y="270" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MIF7nP4EVPLEAdVTBuU-11" target="0MIF7nP4EVPLEAdVTBuU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-11" value="编辑消息&lt;br&gt;发送给Python端处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="157" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-14" value="接收到Python端返回消息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-15" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="10" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0MIF7nP4EVPLEAdVTBuU-16" value="处理成功？" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="120" width="98" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
