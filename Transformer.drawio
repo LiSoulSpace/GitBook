@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T05:00:38.409Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Dp6_3icHmzG5E7W8v_mf" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T05:03:06.858Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ToR5f_gvqGpmeh30_nk3" version="21.2.9" type="github">
   <diagram name="第 1 页" id="P4VHz6F8FDdTj_PXj5Aj">
-    <mxGraphModel dx="603" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="709" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,6 +221,9 @@
         <mxCell id="c3ZJOwvSEtLFaX0gyrFY-47" value="线性连接层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="c3ZJOwvSEtLFaX0gyrFY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3ZJOwvSEtLFaX0gyrFY-48" target="c3ZJOwvSEtLFaX0gyrFY-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c3ZJOwvSEtLFaX0gyrFY-48" value="Softmax归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="90" width="88" height="30" as="geometry" />
         </mxCell>
@@ -238,7 +241,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c3ZJOwvSEtLFaX0gyrFY-53" value="位置编码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="590" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZJOwvSEtLFaX0gyrFY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3ZJOwvSEtLFaX0gyrFY-57" target="c3ZJOwvSEtLFaX0gyrFY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZJOwvSEtLFaX0gyrFY-57" value="输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="188" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZJOwvSEtLFaX0gyrFY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3ZJOwvSEtLFaX0gyrFY-60" target="c3ZJOwvSEtLFaX0gyrFY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZJOwvSEtLFaX0gyrFY-60" value="输出&lt;br&gt;（右移）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZJOwvSEtLFaX0gyrFY-62" value="输出&lt;br&gt;可能性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
